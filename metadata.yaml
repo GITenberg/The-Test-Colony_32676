@@ -1,0 +1,40 @@
+_repo: The-Test-Colony_32676
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: archival
+  image_path: 32676-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marks, Winston K.
+    alias: Marks, Winston Kinney
+    birthdate: 1915
+    deathdate: 1979
+    gutenberg_agent_id: '26841'
+    url: http://www.gutenberg.org/2009/agents/26841
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space colonies -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+title: The Test Colony
+url: http://www.gutenberg.org/ebooks/32676
