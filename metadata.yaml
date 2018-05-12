@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '26841'
     url: http://www.gutenberg.org/2009/agents/26841
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32676#The-Test-Colony
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-06-03'
 gutenberg_type: Text
